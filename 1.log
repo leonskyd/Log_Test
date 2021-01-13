@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-01-12T19:49:22</date>
+  <millis>1610473762494</millis>
+  <sequence>1</sequence>
+  <logger>org.geekbrains.MainApp</logger>
+  <level>SEVERE</level>
+  <class>org.geekbrains.MainApp</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>connection to Server</message>
+</record>
+</log>
